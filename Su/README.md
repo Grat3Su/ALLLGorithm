@@ -4,3 +4,4 @@
 |-----------|--------|-------|-------|-------|
 | 24-10-13  | 1일차  | 백준 | 문자열 폭발 | https://www.acmicpc.net/problem/9935  |
 | 24-10-14  | 2일차  | Biko | 다운로드목록 | https://www.biko.kr/problem/1612  |
+| 24-10-15  | 3일차  | 백준 | 마인크래프트 | https://www.acmicpc.net/problem/18111  |
