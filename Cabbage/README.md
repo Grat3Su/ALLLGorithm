@@ -6,3 +6,4 @@
 | 24-10-15 | 2일차 | 백준 | 커트라인 | https://www.acmicpc.net/problem/25305 |
 | 24-10-16 | 3일차 | 백준 | 점수 계산 | https://www.acmicpc.net/problem/2822 |
 | 24-10-17 | 4일차 | 백준 | ATM | https://www.acmicpc.net/problem/11399 |
+| 24-10-18 | 5일차 | 백준 | 단어정렬 | https://www.acmicpc.net/problem/1181 |
