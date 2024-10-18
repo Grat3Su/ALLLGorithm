@@ -7,3 +7,4 @@
 | 24-10-15  | 3일차  | 백준 | 마인크래프트 | https://www.acmicpc.net/problem/18111  |
 | 24-10-16  | 4일차  | 백준 | 인사성 밝은 곰곰이 | https://www.acmicpc.net/problem/25192  |
 | 24-10-17  | 5일차  | 백준 | 귀여운 라이언 | https://www.acmicpc.net/problem/15565  |
+| 24-10-18  | 6일차  | 백준 | 배부른 마라토너 | https://www.acmicpc.net/problem/10546  |
