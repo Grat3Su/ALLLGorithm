@@ -7,3 +7,4 @@
 | 24-10-16 | 3일차 | 백준 | 점수 계산 | https://www.acmicpc.net/problem/2822 |
 | 24-10-17 | 4일차 | 백준 | ATM | https://www.acmicpc.net/problem/11399 |
 | 24-10-18 | 5일차 | 백준 | 단어정렬 | https://www.acmicpc.net/problem/1181 |
+| 24-10-19 | 6일차 | 백준 | 세 수 | https://www.acmicpc.net/problem/10817 |
