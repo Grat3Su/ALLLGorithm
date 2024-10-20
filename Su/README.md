@@ -8,4 +8,5 @@
 | 24-10-16  | 4일차  | 백준 | 인사성 밝은 곰곰이 | https://www.acmicpc.net/problem/25192  |
 | 24-10-17  | 5일차  | 백준 | 귀여운 라이언 | https://www.acmicpc.net/problem/15565  |
 | 24-10-18  | 6일차  | 백준 | 배부른 마라토너 | https://www.acmicpc.net/problem/10546  |
-| 24-10-18  | 7일차  | 백준 | 헌내기는 친구가 필요해 | https://www.acmicpc.net/problem/21736  |
+| 24-10-19  | 7일차  | 백준 | 헌내기는 친구가 필요해 | https://www.acmicpc.net/problem/21736  |
+| 24-10-20  | 8일차  | 백준 | 알파벳 블록 | https://www.acmicpc.net/problem/27497  |
