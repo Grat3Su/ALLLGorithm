@@ -11,3 +11,4 @@
 | 24-10-19  | 7일차  | 백준 | 헌내기는 친구가 필요해 | https://www.acmicpc.net/problem/21736  |
 | 24-10-20  | 8일차  | 백준 | 알파벳 블록 | https://www.acmicpc.net/problem/27497  |
 | 24-10-21  | 9일차  | 백준 | 크리스마스 선물 | https://www.acmicpc.net/problem/14235  |
+| 24-10-22  | 10일차  | 백준 | 점프 점프 | https://www.acmicpc.net/problem/14248  |
