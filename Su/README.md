@@ -12,3 +12,4 @@
 | 24-10-20  | 8일차  | 백준 | 알파벳 블록 | https://www.acmicpc.net/problem/27497  |
 | 24-10-21  | 9일차  | 백준 | 크리스마스 선물 | https://www.acmicpc.net/problem/14235  |
 | 24-10-22  | 10일차  | 백준 | 점프 점프 | https://www.acmicpc.net/problem/14248  |
+| 24-10-23  | 11일차  | 백준 | 접미사 배열 | https://www.acmicpc.net/problem/11656  |
