@@ -10,3 +10,4 @@
 | 24-10-19 | 6일차 | 백준 | 세 수 | https://www.acmicpc.net/problem/10817 |
 | 24-10-20 | 7일차 | 백준 | 소트인사이드 | https://www.acmicpc.net/problem/1427 |
 | 24-10-21 | 8일차 | 백준 | 나이순 정렬 | https://www.acmicpc.net/problem/10814 |
+| 24-10-21 | 8일차 | 백준 | 숫자의 합 | https://www.acmicpc.net/problem/11720 |
