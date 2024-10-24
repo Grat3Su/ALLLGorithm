@@ -11,3 +11,5 @@
 | 24-10-20 | 7일차 | 백준 | 소트인사이드 | https://www.acmicpc.net/problem/1427 |
 | 24-10-21 | 8일차 | 백준 | 나이순 정렬 | https://www.acmicpc.net/problem/10814 |
 | 24-10-23 | 9일차 | 백준 | 숫자의 합 | https://www.acmicpc.net/problem/11720 |
+| 24-10-24 | 10일차 | 백준 | ox퀴즈 | https://www.acmicpc.net/problem/8958 |
+| 24-10-24 | 10일차 | 백준 | 좌표 정렬하기 | https://www.acmicpc.net/problem/11650 |
