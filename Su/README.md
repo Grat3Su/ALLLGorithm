@@ -13,3 +13,4 @@
 | 24-10-21  | 9일차  | 백준 | 크리스마스 선물 | https://www.acmicpc.net/problem/14235  |
 | 24-10-22  | 10일차  | 백준 | 점프 점프 | https://www.acmicpc.net/problem/14248  |
 | 24-10-23  | 11일차  | 백준 | 접미사 배열 | https://www.acmicpc.net/problem/11656  |
+| 24-10-24  | 12일차  | 백준 | 국회의원 선거 | https://www.acmicpc.net/problem/1417  |
