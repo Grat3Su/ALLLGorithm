@@ -13,3 +13,4 @@
 | 24-10-23 | 9일차 | 백준 | 숫자의 합 | https://www.acmicpc.net/problem/11720 |
 | 24-10-24 | 10일차 | 백준 | ox퀴즈 | https://www.acmicpc.net/problem/8958 |
 | 24-10-24 | 10일차 | 백준 | 좌표 정렬하기 | https://www.acmicpc.net/problem/11650 |
+| 24-10-25 | 11일차 | 백준 | 설탕 배달 | https://www.acmicpc.net/problem/2839 |
