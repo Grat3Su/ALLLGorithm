@@ -14,3 +14,4 @@
 | 24-10-24 | 10일차 | 백준 | ox퀴즈 | https://www.acmicpc.net/problem/8958 |
 | 24-10-24 | 10일차 | 백준 | 좌표 정렬하기 | https://www.acmicpc.net/problem/11650 |
 | 24-10-25 | 11일차 | 백준 | 설탕 배달 | https://www.acmicpc.net/problem/2839 |
+| 24-10-26 | 12일차 | 백준 | A -> B | https://www.acmicpc.net/problem/16953 |
