@@ -15,3 +15,4 @@
 | 24-10-23  | 11일차  | 백준 | 접미사 배열 | https://www.acmicpc.net/problem/11656  |
 | 24-10-24  | 12일차  | 백준 | 국회의원 선거 | https://www.acmicpc.net/problem/1417  |
 | 24-10-25  | 13일차  | 백준 | N과 M 4 | https://www.acmicpc.net/problem/15652  |
+| 24-10-27  | 14일차  | 백준 | 집합의 표현 | https://www.acmicpc.net/problem/1717  |
