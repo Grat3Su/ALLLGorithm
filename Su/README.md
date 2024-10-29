@@ -17,3 +17,4 @@
 | 24-10-25  | 13일차  | 백준 | N과 M 4 | https://www.acmicpc.net/problem/15652  |
 | 24-10-27  | 14일차  | 백준 | 집합의 표현 | https://www.acmicpc.net/problem/1717  |
 | 24-10-28  | 15일차  | 백준 | 여행가자 | https://www.acmicpc.net/problem/1976  |
+| 24-10-29  | 16일차  | 백준 | 사이클 게임 | https://www.acmicpc.net/problem/20040  |
