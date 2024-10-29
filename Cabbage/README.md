@@ -16,3 +16,4 @@
 | 24-10-25 | 11일차 | 백준 | 설탕 배달 | https://www.acmicpc.net/problem/2839 |
 | 24-10-27 | 12일차 | 백준 | A -> B | https://www.acmicpc.net/problem/16953 |
 | 24-10-28 | 13일차 | 백준 | 보물찾기 | https://www.acmicpc.net/problem/1026 |
+| 24-10-28 | 14일차 | 백준 | 전자레인지 | https://www.acmicpc.net/problem/10162 |
