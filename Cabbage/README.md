@@ -18,3 +18,4 @@
 | 24-10-28 | 13일차 | 백준 | 보물찾기 | https://www.acmicpc.net/problem/1026 |
 | 24-10-29 | 14일차 | 백준 | 전자레인지 | https://www.acmicpc.net/problem/10162 |
 | 24-10-30 | 15일차 | 백준 | 거스름돈 | https://www.acmicpc.net/problem/14916 |
+| 24-10-31 | 16일차 | 백준 | 동전 0 | https://www.acmicpc.net/problem/11047 |
