@@ -19,3 +19,4 @@
 | 24-10-29 | 14일차 | 백준 | 전자레인지 | https://www.acmicpc.net/problem/10162 |
 | 24-10-30 | 15일차 | 백준 | 거스름돈 | https://www.acmicpc.net/problem/14916 |
 | 24-10-31 | 16일차 | 백준 | 동전 0 | https://www.acmicpc.net/problem/11047 |
+| 24-11-01 | 17일차 | 백준 | 회의실 배정 | https://www.acmicpc.net/problem/1931 |
