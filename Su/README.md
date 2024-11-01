@@ -20,3 +20,4 @@
 | 24-10-29  | 16일차  | 백준 | 사이클 게임 | https://www.acmicpc.net/problem/20040  |
 | 24-10-30  | 17일차  | 백준 | 병사 배치하기 | https://www.acmicpc.net/problem/18353  |
 | 24-10-31  | 18일차  | 백준 | 서로 다른 부분 문자열의 개수 | https://www.acmicpc.net/problem/11478  |
+| 24-11-01  | 19일차  | 백준 | 부분합 | https://www.acmicpc.net/problem/1806  |
