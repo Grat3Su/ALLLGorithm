@@ -20,3 +20,4 @@
 | 24-10-30 | 15일차 | 백준 | 거스름돈 | https://www.acmicpc.net/problem/14916 |
 | 24-10-31 | 16일차 | 백준 | 동전 0 | https://www.acmicpc.net/problem/11047 |
 | 24-11-01 | 17일차 | 백준 | 회의실 배정 | https://www.acmicpc.net/problem/1931 |
+| 24-11-02 | 18일차 | 백준 | 수들의 합 | https://www.acmicpc.net/problem/1789 |
