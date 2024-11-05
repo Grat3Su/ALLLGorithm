@@ -23,3 +23,4 @@
 | 24-11-02 | 18일차 | 백준 | 수들의 합 | https://www.acmicpc.net/problem/1789 |
 | 24-11-03 | 19일차 | 백준 | 신입 사원 | https://www.acmicpc.net/problem/1946 |
 | 24-11-04 | 20일차 | 백준 | 로프 | https://www.acmicpc.net/problem/2217 |
+| 24-11-05 | 21일차 | 백준 | 보석 도둑 | https://www.acmicpc.net/problem/1202 |
