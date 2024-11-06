@@ -24,3 +24,4 @@
 | 24-11-03 | 19일차 | 백준 | 신입 사원 | https://www.acmicpc.net/problem/1946 |
 | 24-11-04 | 20일차 | 백준 | 로프 | https://www.acmicpc.net/problem/2217 |
 | 24-11-05 | 21일차 | 백준 | 보석 도둑 | https://www.acmicpc.net/problem/1202 |
+| 24-11-06 | 22일차 | 백준 | 카드2 | https://www.acmicpc.net/problem/2164 |
