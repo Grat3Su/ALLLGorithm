@@ -25,3 +25,4 @@
 | 24-11-04 | 20일차 | 백준 | 로프 | https://www.acmicpc.net/problem/2217 |
 | 24-11-05 | 21일차 | 백준 | 보석 도둑 | https://www.acmicpc.net/problem/1202 |
 | 24-11-06 | 22일차 | 백준 | 카드2 | https://www.acmicpc.net/problem/2164 |
+| 24-11-07 | 23일차 | 백준 | 큐 | https://www.acmicpc.net/problem/10845 |
