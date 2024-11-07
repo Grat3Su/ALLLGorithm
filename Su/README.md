@@ -26,3 +26,4 @@
 | 24-11-04  | 22일차  | 백준 | Java vs C++ | https://www.acmicpc.net/problem/3613  |
 | 24-11-05  | 23일차  | 백준 | 슈퍼 마리오 | https://www.acmicpc.net/problem/2851  |
 | 24-11-06  | 24일차  | 백준 | 숫자 카드 | https://www.acmicpc.net/problem/10815  |
+| 24-11-07  | 25일차  | 백준 | 돌 게임 | https://www.acmicpc.net/problem/9655  |
