@@ -27,3 +27,4 @@
 | 24-11-06 | 22일차 | 백준 | 카드2 | https://www.acmicpc.net/problem/2164 |
 | 24-11-07 | 23일차 | 백준 | 큐 | https://www.acmicpc.net/problem/10845 |
 | 24-11-08 | 24일차 | 백준 | 요세푸스 문제 | https://www.acmicpc.net/problem/1158 |
+| 24-11-09 | 25일차 | 백준 | 세수정렬 | https://www.acmicpc.net/problem/2752 |
