@@ -30,3 +30,4 @@
 | 24-11-08  | 26일차  | 백준 | 최소공배수 | https://www.acmicpc.net/problem/13241  |
 | 24-11-09  | 27일차  | 백준 | 덱 | https://www.acmicpc.net/problem/10866  |
 | 24-11-10  | 28일차  | 백준 | 소수 구하기 | https://www.acmicpc.net/problem/1929  |
+| 24-11-11  | 29일차  | 백준 | 대칭 차집합 | https://www.acmicpc.net/problem/1269  |
