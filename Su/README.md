@@ -34,3 +34,4 @@
 | 24-11-12  | 30일차  | 백준 | 게임을 만든 동준이 | https://www.acmicpc.net/problem/2847  |
 | 24-11-13  | 31일차  | 백준 | 카드 | https://www.acmicpc.net/problem/11652  |
 | 24-11-14  | 31일차  | 백준 | 배열 합치기 | https://www.acmicpc.net/problem/11728  |
+| 24-11-15  | 32일차  | 백준 | 싸이버개강총회 | https://www.acmicpc.net/problem/19583  |
