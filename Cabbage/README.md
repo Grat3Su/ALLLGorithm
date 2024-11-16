@@ -29,3 +29,4 @@
 | 24-11-08 | 24일차 | 백준 | 요세푸스 문제 | https://www.acmicpc.net/problem/1158 |
 | 24-11-09 | 25일차 | 백준 | 세수정렬 | https://www.acmicpc.net/problem/2752 |
 | 24-11-10 | 26일차 | 백준 | 국영수 | https://www.acmicpc.net/problem/10825 |
+| 24-11-16 | 26일차 | 프로그래머스 | k번째 수 | https://school.programmers.co.kr/learn/courses/30/lessons/42748 |
