@@ -35,3 +35,6 @@
 | 24-11-13  | 31일차  | 백준 | 카드 | https://www.acmicpc.net/problem/11652  |
 | 24-11-14  | 31일차  | 백준 | 배열 합치기 | https://www.acmicpc.net/problem/11728  |
 | 24-11-15  | 32일차  | 백준 | 싸이버개강총회 | https://www.acmicpc.net/problem/19583  |
+| 24-11-17  | 33일차  | 백준 | 덱 2 | https://www.acmicpc.net/problem/28279  |
+| 24-11-17  | 33일차  | 백준 | 명령 프롬프트 | https://www.acmicpc.net/problem/1032  |
+| 24-11-17  | 33일차  | 백준 | 국영수 | https://www.acmicpc.net/problem/10825  |
