@@ -32,3 +32,4 @@
 | 24-11-16 | 27일차 | 프로그래머스 | k번째 수 | https://school.programmers.co.kr/learn/courses/30/lessons/42748 |
 | 24-11-17 | 28일차 | 백준 | 일곱 난쟁이 | https://www.acmicpc.net/problem/2309 |
 | 24-11-18 | 29일차 | 백준 | 연속합 | https://www.acmicpc.net/problem/1912 |
+| 24-11-19 | 30일차 | 백준 | k번째 수 | https://www.acmicpc.net/problem/11004 |
