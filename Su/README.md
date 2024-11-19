@@ -39,3 +39,4 @@
 | 24-11-17  | 33일차  | 백준 | 명령 프롬프트 | https://www.acmicpc.net/problem/1032  |
 | 24-11-17  | 33일차  | 백준 | 국영수 | https://www.acmicpc.net/problem/10825  |
 | 24-11-18  | 34일차  | 백준 | 크로아티아 알파벳 | https://www.acmicpc.net/problem/2941  |
+| 24-11-19  | 35일차  | 백준 | 너의 평점은 | https://www.acmicpc.net/problem/25206  |
