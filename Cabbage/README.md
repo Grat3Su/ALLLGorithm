@@ -33,3 +33,4 @@
 | 24-11-17 | 28일차 | 백준 | 일곱 난쟁이 | https://www.acmicpc.net/problem/2309 |
 | 24-11-18 | 29일차 | 백준 | 연속합 | https://www.acmicpc.net/problem/1912 |
 | 24-11-19 | 30일차 | 백준 | k번째 수 | https://www.acmicpc.net/problem/11004 |
+| 24-11-20 | 31일차 | 백준 | 베스트셀러 | https://www.acmicpc.net/problem/1302 |
