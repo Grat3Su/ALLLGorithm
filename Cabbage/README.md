@@ -34,3 +34,4 @@
 | 24-11-18 | 29일차 | 백준 | 연속합 | https://www.acmicpc.net/problem/1912 |
 | 24-11-19 | 30일차 | 백준 | k번째 수 | https://www.acmicpc.net/problem/11004 |
 | 24-11-20 | 31일차 | 백준 | 베스트셀러 | https://www.acmicpc.net/problem/1302 |
+| 24-11-21 | 32일차 | 백준 | 중복 빼고 정렬하기 | https://www.acmicpc.net/problem/10867 |
