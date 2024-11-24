@@ -37,3 +37,4 @@
 | 24-11-21 | 32일차 | 백준 | 중복 빼고 정렬하기 | https://www.acmicpc.net/problem/10867 |
 | 24-11-22 | 33일차 | 백준 | 듣보잡 | https://www.acmicpc.net/problem/1764 |
 | 24-11-23 | 34일차 | 백준 | 배열 합치기 | https://www.acmicpc.net/problem/11728 |
+| 24-11-24 | 35일차 | 백준 | 생일 | https://www.acmicpc.net/problem/5635 |
