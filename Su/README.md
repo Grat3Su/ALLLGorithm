@@ -41,3 +41,4 @@
 | 24-11-18  | 34일차  | 백준 | 크로아티아 알파벳 | https://www.acmicpc.net/problem/2941  |
 | 24-11-19  | 35일차  | 백준 | 너의 평점은 | https://www.acmicpc.net/problem/25206  |
 | 24-11-24  | 36일차  | 백준 | 그룹 단어 체커 | https://www.acmicpc.net/problem/1316  |
+| 24-11-25  | 37일차  | 백준 | 중복 빼고 정렬하기 | https://www.acmicpc.net/problem/10867  |
