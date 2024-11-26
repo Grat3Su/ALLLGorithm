@@ -39,3 +39,4 @@
 | 24-11-23 | 34일차 | 백준 | 배열 합치기 | https://www.acmicpc.net/problem/11728 |
 | 24-11-24 | 35일차 | 백준 | 생일 | https://www.acmicpc.net/problem/5635 |
 | 24-11-25 | 36일차 | 백준 | 캠핑 | https://www.acmicpc.net/problem/4796 |
+| 24-11-26 | 37일차 | 백준 | 블랙잭 | https://www.acmicpc.net/problem/2798 |
