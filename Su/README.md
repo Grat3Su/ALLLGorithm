@@ -43,3 +43,4 @@
 | 24-11-24  | 36일차  | 백준 | 그룹 단어 체커 | https://www.acmicpc.net/problem/1316  |
 | 24-11-25  | 37일차  | 백준 | 중복 빼고 정렬하기 | https://www.acmicpc.net/problem/10867  |
 | 24-11-26  | 38일차  | 백준 | 생일 | https://www.acmicpc.net/problem/5635  |
+| 24-11-27  | 39일차  | 백준 | 뒤집기 | https://www.acmicpc.net/problem/1439  |
