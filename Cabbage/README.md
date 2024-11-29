@@ -41,4 +41,5 @@
 | 24-11-25 | 36일차 | 백준 | 캠핑 | https://www.acmicpc.net/problem/4796 |
 | 24-11-26 | 37일차 | 백준 | 블랙잭 | https://www.acmicpc.net/problem/2798 |
 | 24-11-27 | 38일차 | 백준 | 좌표 정렬하기 2 | https://www.acmicpc.net/problem/11651 |
-| 24-11-27 | 39일차 | 프로그래머스 | 폰켓몬 | https://school.programmers.co.kr/learn/courses/30/lessons/1845 |
+| 24-11-28 | 39일차 | 프로그래머스 | 폰켓몬 | https://school.programmers.co.kr/learn/courses/30/lessons/1845 |
+| 24-11-29 | 40일차 | 백준 | 수찾기 | https://www.acmicpc.net/problem/1920 |
