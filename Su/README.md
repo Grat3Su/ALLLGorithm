@@ -45,3 +45,4 @@
 | 24-11-26  | 38일차  | 백준 | 생일 | https://www.acmicpc.net/problem/5635  |
 | 24-11-27  | 39일차  | 백준 | 뒤집기 | https://www.acmicpc.net/problem/1439  |
 | 24-11-28  | 40일차  | 백준 | 성적 통계 | https://www.acmicpc.net/problem/5800  |
+| 24-11-29  | 41일차  | 백준 | 올림픽 | https://www.acmicpc.net/problem/8979  |
