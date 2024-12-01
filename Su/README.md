@@ -47,3 +47,4 @@
 | 24-11-28  | 40일차  | 백준 | 성적 통계 | https://www.acmicpc.net/problem/5800  |
 | 24-11-29  | 41일차  | 백준 | 올림픽 | https://www.acmicpc.net/problem/8979  |
 | 24-11-30  | 42일차  | 백준 | 결혼식 | https://www.acmicpc.net/problem/5567  |
+| 24-12-01  | 43일차  | 백준 | 문서 검색 | https://www.acmicpc.net/problem/1543  |
