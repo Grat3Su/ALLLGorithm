@@ -43,4 +43,5 @@
 | 24-11-27 | 38일차 | 백준 | 좌표 정렬하기 2 | https://www.acmicpc.net/problem/11651 |
 | 24-11-28 | 39일차 | 프로그래머스 | 폰켓몬 | https://school.programmers.co.kr/learn/courses/30/lessons/1845 |
 | 24-11-29 | 40일차 | 백준 | 수찾기 | https://www.acmicpc.net/problem/1920 |
-| 24-11-29 | 41일차 | 백준 | 주사위 세개 | https://www.acmicpc.net/problem/2480 |
+| 24-11-30 | 41일차 | 백준 | 주사위 세개 | https://www.acmicpc.net/problem/2480 |
+| 24-12-01 | 42일차 | 백준 | 상금 헌터 | https://www.acmicpc.net/problem/15953 |
