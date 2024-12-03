@@ -49,3 +49,4 @@
 | 24-11-30  | 42일차  | 백준 | 결혼식 | https://www.acmicpc.net/problem/5567  |
 | 24-12-01  | 43일차  | 백준 | 문서 검색 | https://www.acmicpc.net/problem/1543  |
 | 24-12-02  | 44일차  | 백준 | A → B | https://www.acmicpc.net/problem/16953  |
+| 24-12-03  | 45일차  | 백준 | 팰린드롬 만들기 | https://www.acmicpc.net/problem/1213  |
