@@ -46,3 +46,4 @@
 | 24-11-30 | 41일차 | 백준 | 주사위 세개 | https://www.acmicpc.net/problem/2480 |
 | 24-12-01 | 42일차 | 백준 | 상금 헌터 | https://www.acmicpc.net/problem/15953 |
 | 24-12-02 | 43일차 | 백준 | 인사성 밝은 곰곰이 | https://www.acmicpc.net/problem/25192 |
+| 24-12-03 | 44일차 | 백준 | 회사에 있는 사람 | https://www.acmicpc.net/problem/7785 |
