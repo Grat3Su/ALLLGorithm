@@ -48,3 +48,4 @@
 | 24-12-02 | 43일차 | 백준 | 인사성 밝은 곰곰이 | https://www.acmicpc.net/problem/25192 |
 | 24-12-03 | 44일차 | 백준 | 회사에 있는 사람 | https://www.acmicpc.net/problem/7785 |
 | 24-12-04 | 45일차 | 백준 | 나는야 포켓몬 마스터 이다솜 | https://www.acmicpc.net/problem/1620 |
+| 24-12-05 | 46일차 | 백준 | 접미사 배열 | https://www.acmicpc.net/problem/11656 |
