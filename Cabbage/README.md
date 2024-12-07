@@ -50,3 +50,4 @@
 | 24-12-04 | 45일차 | 백준 | 나는야 포켓몬 마스터 이다솜 | https://www.acmicpc.net/problem/1620 |
 | 24-12-05 | 46일차 | 백준 | 접미사 배열 | https://www.acmicpc.net/problem/11656 |
 | 24-12-06 | 47일차 | 백준 | 문자열 집합 | https://www.acmicpc.net/problem/14425 |
+| 24-12-07 | 48일차 | 백준 | 도키도키 간식드리미 | https://www.acmicpc.net/problem/12789 |
