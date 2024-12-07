@@ -52,3 +52,6 @@
 | 24-12-03  | 45일차  | 백준 | 팰린드롬 만들기 | https://www.acmicpc.net/problem/1213  |
 | 24-12-04  | 46일차  | 백준 | 이제는 더 이상 물러날 곳이 없다 | https://www.acmicpc.net/problem/30455  |
 | 24-12-05  | 47일차  | 백준 | 시리얼 번호 | https://www.acmicpc.net/problem/1431  |
+| 24-12-07  | 48일차  | 프로그래머스 | K번째 수 | https://school.programmers.co.kr/learn/courses/30/lessons/42748  |
+| 24-12-07  | 48일차  | 프로그래머스 | H-Index | https://school.programmers.co.kr/learn/courses/30/lessons/42747  |
+| 24-12-07  | 48일차  | 프로그래머스 | 가장 큰수 | https://school.programmers.co.kr/learn/courses/30/lessons/42746  |
