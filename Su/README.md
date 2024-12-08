@@ -55,3 +55,4 @@
 | 24-12-07  | 48일차  | 프로그래머스 | K번째 수 | https://school.programmers.co.kr/learn/courses/30/lessons/42748  |
 | 24-12-07  | 48일차  | 프로그래머스 | H-Index | https://school.programmers.co.kr/learn/courses/30/lessons/42747  |
 | 24-12-07  | 48일차  | 프로그래머스 | 가장 큰수 | https://school.programmers.co.kr/learn/courses/30/lessons/42746  |
+| 24-12-08  | 49일차  | 프로그래머스 | 게임 맵 최단 거리 | https://school.programmers.co.kr/learn/courses/30/lessons/1844  |
