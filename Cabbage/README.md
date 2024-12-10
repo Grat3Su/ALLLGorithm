@@ -52,3 +52,4 @@
 | 24-12-06 | 47일차 | 백준 | 문자열 집합 | https://www.acmicpc.net/problem/14425 |
 | 24-12-07 | 48일차 | 백준 | 도키도키 간식드리미 | https://www.acmicpc.net/problem/12789 |
 | 24-12-09 | 49일차 | 백준 | 균형잡힌 세상 | https://www.acmicpc.net/problem/4949 |
+| 24-12-10 | 50일차 | 백준 | 스택 수열 | https://www.acmicpc.net/problem/1874 |
