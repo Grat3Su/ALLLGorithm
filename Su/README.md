@@ -58,3 +58,4 @@
 | 24-12-08  | 49일차  | 프로그래머스 | 게임 맵 최단 거리 | https://school.programmers.co.kr/learn/courses/30/lessons/1844  |
 | 24-12-09  | 50일차  | 백준 | 통계학 | https://www.acmicpc.net/problem/2108  |
 | 24-12-10  | 51일차  | 백준 | 패션왕 신해빈 | https://www.acmicpc.net/problem/9375  |
+| 24-12-11  | 52일차  | 백준 | 최소 힙 | https://www.acmicpc.net/problem/1927  |
