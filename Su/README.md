@@ -59,3 +59,4 @@
 | 24-12-09  | 50일차  | 백준 | 통계학 | https://www.acmicpc.net/problem/2108  |
 | 24-12-10  | 51일차  | 백준 | 패션왕 신해빈 | https://www.acmicpc.net/problem/9375  |
 | 24-12-11  | 52일차  | 백준 | 최소 힙 | https://www.acmicpc.net/problem/1927  |
+| 24-12-12  | 53일차  | 프로그래머스 | 네트워크 | https://school.programmers.co.kr/learn/courses/30/lessons/43162  |
