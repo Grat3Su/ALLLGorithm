@@ -56,3 +56,4 @@
 | 24-12-11 | 51일차 | 백준 | 쇠막대기 | https://www.acmicpc.net/problem/10799 |
 | 24-12-12 | 52일차 | 백준 | 단어의 개수 | https://www.acmicpc.net/problem/1152 |
 | 24-12-13 | 53일차 | 백준 | 문자열 반복 | https://www.acmicpc.net/problem/2675 |
+| 24-12-14 | 54일차 | 백준 | 알파벳 찾기 | https://www.acmicpc.net/problem/10809 |
