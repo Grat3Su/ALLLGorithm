@@ -62,3 +62,4 @@
 | 24-12-12  | 53일차  | 프로그래머스 | 네트워크 | https://school.programmers.co.kr/learn/courses/30/lessons/43162  |
 | 24-12-13  | 54일차  | 백준 | 나는야 포켓몬 마스터 이다솜 | https://www.acmicpc.net/problem/1620  |
 | 24-12-14  | 55일차  | 백준 | 단어 뒤집기 2 | https://www.acmicpc.net/problem/17413  |
+| 24-12-15  | 56일차  | 프로그래머스 | 타겟 넘버 | https://school.programmers.co.kr/learn/courses/30/lessons/43165  |
