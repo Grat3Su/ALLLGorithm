@@ -64,3 +64,4 @@
 | 24-12-14  | 55일차  | 백준 | 단어 뒤집기 2 | https://www.acmicpc.net/problem/17413  |
 | 24-12-15  | 56일차  | 프로그래머스 | 타겟 넘버 | https://school.programmers.co.kr/learn/courses/30/lessons/43165  |
 | 24-12-16  | 57일차  | BIKO | 인내의 숲 1단계 - 1 | https://www.biko.kr/problem/1485  |
+| 24-12-17  | 58일차  | BIKO | 인내의 숲 1단계 - 2 | https://www.biko.kr/problem/1487  |
