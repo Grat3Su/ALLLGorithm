@@ -69,3 +69,4 @@
 | 24-12-19  | 60일차  | BIKO | 지금까지 얻은 코인의 총합은? | https://www.biko.kr/problem/1499  |
 | 24-12-20  | 61일차  | BIKO | 인내의 숲 2단계 - 1 | https://www.biko.kr/problem/1489  |
 | 24-12-21  | 62일차  | BIKO | 숲속의 작은 상점 | https://www.biko.kr/problem/1511  |
+| 24-12-22  | 63일차  | BIKO | 시간 던전의 난이도 예상하기 | https://www.biko.kr/problem/1505  |
