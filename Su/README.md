@@ -70,4 +70,5 @@
 | 24-12-20  | 61일차  | BIKO | 인내의 숲 2단계 - 1 | https://www.biko.kr/problem/1489  |
 | 24-12-21  | 62일차  | BIKO | 숲속의 작은 상점 | https://www.biko.kr/problem/1511  |
 | 24-12-22  | 63일차  | BIKO | 시간 던전의 난이도 예상하기 | https://www.biko.kr/problem/1505  |
-| 24-12-23  | 64일차  | 뻐꾸기 새둥지 | 시간 던전의 난이도 예상하기 | https://www.biko.kr/problem/1552  |
+| 24-12-23  | 64일차  | BIKO | 뻐꾸기 새둥지 | https://www.biko.kr/problem/1552  |
+| 24-12-24  | 65일차  | BIKO | 점심 뭐 먹을까 | https://www.biko.kr/problem/1608  |
