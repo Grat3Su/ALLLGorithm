@@ -72,3 +72,4 @@
 | 24-12-22  | 63일차  | BIKO | 시간 던전의 난이도 예상하기 | https://www.biko.kr/problem/1505  |
 | 24-12-23  | 64일차  | BIKO | 뻐꾸기 새둥지 | https://www.biko.kr/problem/1552  |
 | 24-12-24  | 65일차  | BIKO | 점심 뭐 먹을까 | https://www.biko.kr/problem/1608  |
+| 24-12-25  | 66일차  | BIKO | 무엇을 하는가 | https://www.biko.kr/problem/1546  |
